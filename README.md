@@ -12,6 +12,9 @@ const alexis = {
         backEnd: ["Java", "C#"],
         databases: ["MariaDB"],
     }
+    hobbies: ["Rallye", "F1", "Video Games"]
+    spokenLanguage: ["French", "Engish"]
+    currently: "Currently a first year student at Lyon Ynov campus in France in the IT department"
 };
 ```
 
@@ -20,12 +23,6 @@ const alexis = {
 <a href="https://discord.gg/VelrisTV#9441" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="yasindu-sanjeewa-a79783202" height="40" width="40" /></a>
 <a href="mailto:sbx.alexis@gmail.com" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/03/icone-gmail.png" alt="21017884" height="40" width="40" /></a>
 </p>
-<br />
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></p>
 
 <br/>
 <p>
