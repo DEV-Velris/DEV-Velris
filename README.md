@@ -12,7 +12,7 @@ const alexis = {
         backEnd: ["Java", "C#"],
         databases: ["MariaDB"],
     }
-    hobbies: ["Rallye", "F1", "Video Games"]
+    hobbies: ["Cars", "Rallye", "F1", "Video Games"]
     spokenLanguage: ["French", "Engish"]
     currently: "Currently a first year student at Lyon Ynov campus in France"
 };
