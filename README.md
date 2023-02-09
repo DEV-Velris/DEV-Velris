@@ -4,7 +4,16 @@
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif"><br />
 
-I am currently studying at the Lyon Ynov Campus in France in the IT department.<br /><br>
+```javascript
+const alexis = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["minecraft", "game"],
+    technologies: {
+        backEnd: ["Java", "C#"],
+        databases: ["MariaDB"],
+    }
+};
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
