@@ -14,7 +14,7 @@ const alexis = {
     }
     hobbies: ["Rallye", "F1", "Video Games"]
     spokenLanguage: ["French", "Engish"]
-    currently: "Currently a first year student at Lyon Ynov campus in France in the IT department"
+    currently: "Currently a first year student at Lyon Ynov campus in France"
 };
 ```
 
