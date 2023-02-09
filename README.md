@@ -11,9 +11,9 @@ const alexis = {
     technologies: {
         backEnd: ["Java", "C#"],
         databases: ["MariaDB"],
-    }
-    hobbies: ["Cars", "Rallye", "F1", "Video Games"]
-    spokenLanguage: ["French", "Engish"]
+    },
+    hobbies: ["Cars", "Rallye", "F1", "Video Games"],
+    spokenLanguage: ["French", "Engish"],
     currently: "Currently a first year student at Lyon Ynov campus in France"
 };
 ```
