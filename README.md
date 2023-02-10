@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Alexis Soubieux</h1>
 
-<h3 align="center">A young person with a passion for application and game development</h3>
+<h3 align="center">A young adult with a passion for developing applications and games.</h3>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif"><br />
 
