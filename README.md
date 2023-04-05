@@ -6,7 +6,7 @@
 
 ```javascript
 const alexis = {
-    pronouns: "He" | "Him",
+    pronouns: "King",
     askMeAbout: ["minecraft", "game"],
     technologies: {
         backEnd: ["Java", "C#"],
