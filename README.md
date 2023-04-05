@@ -26,6 +26,6 @@ const alexis = {
 
 <br/>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DEV-Velris&show_icons=true&theme=dracula&locale=en&count_private=true" alt="YAlexis Stat" />
+<img align="left" src="https://github-readme-stats-eta-fawn.vercel.app//api?username=DEV-Velris&show_icons=true&theme=dracula&locale=en&count_private=true" alt="YAlexis Stat" />
 
 </p>
