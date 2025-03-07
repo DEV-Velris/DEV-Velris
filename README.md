@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Alexis Soubieux</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Alexis</h1>
 
-<h3 align="center">A young adult with a passion for developing applications and games.</h3>
+<h3 align="center">A young adult with a passion for developing applications</h3>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif"><br />
 
@@ -9,12 +9,13 @@ const alexis = {
     pronouns: "King",
     askMeAbout: ["minecraft", "game"],
     technologies: {
-        backEnd: ["Java", "C#"],
-        databases: ["MariaDB"],
+        frontEnd: ["HTML", "SCSS", "REACT"]
+        backEnd: ["Java", "C#", "Javascript"],
+        databases: ["MariaDB", "Postgres"],
     },
     hobbies: ["Cars", "Rallye", "F1", "Video Games"],
     spokenLanguage: ["French", "Engish"],
-    currently: "Currently a first year student at Lyon Ynov campus in France"
+    currently: "Currently a third year student at Lyon Ynov campus in France"
 };
 ```
 
